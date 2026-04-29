@@ -1,5 +1,7 @@
 # Mon Lab HTML-CSS
 
-**Premier pas en développement web**
+**Premiers pas en développement web**
+**En autodidacte**
+
 
 
